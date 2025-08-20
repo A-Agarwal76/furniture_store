@@ -170,7 +170,6 @@ adb install -r build/app/outputs/flutter-apk/app-release.apk
   - Persist favorites/cart to the network or a database instead of (or alongside) SharedPreferences
 
 
-## License
-This project is licensed under the MIT License — see [LICENSE](LICENSE).
+
 
 
